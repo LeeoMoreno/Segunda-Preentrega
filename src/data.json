@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Phone 1",
+      "price": 100,
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum deleniti aut dignissimos explicabo ab, cumque eligendi ducimus numquam quibusdam minima.",
+      "stock": 3,
+      "category": "phone"
+    },
+    {
+      "id": 2,
+      "name": "Phone 2",
+      "price": 200,
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum deleniti aut dignissimos explicabo ab, cumque eligendi ducimus numquam quibusdam minima.",
+      "stock": 8,
+      "category": "phone"
+    },
+    {
+      "id": 3,
+      "name": "Phone 3",
+      "price": 300,
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum deleniti aut dignissimos explicabo ab, cumque eligendi ducimus numquam quibusdam minima.",
+      "stock": 3,
+      "category": "phone"
+    },
+    {
+      "id": 4,
+      "name": "Phone 4",
+      "price": 400,
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum deleniti aut dignissimos explicabo ab, cumque eligendi ducimus numquam quibusdam minima.",
+      "stock": 5,
+      "category": "phone"
+    }
+  ]
